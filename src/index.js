@@ -9,3 +9,6 @@ let nombre = "Juli";
 console.log("Hola Mundo " + nombre);
 
 console.log(`Mi nombre es: ${nombre}`);
+
+let nombr = "Juli";
+let nom = "Lili";
